@@ -1,15 +1,19 @@
 ﻿
 # Sparkify(Spark Project)
 
-Sparkfy provide music services including free account and premium account, I need to give the company a model which help to identify the customer who potentially cancel the premium service.
+## Project overview
+SparkIfy provide music services including free account and premium account, I need to give the company a model which help to identify the customer who potentially cancel the premium service.
+## Dataset
+There is the full 12GB dataset that provided by Udacity.
+## Installation
+The code should run using Python version 3.*. 
+The necessary libraries are: pandas, pyspark,  seaborn,  matplotlib, 
 
-### Data
-there is the full 12GB dataset.
+## File Descriptions
+README.md
+Sparkify.ipynb
+data\mini_sparkify_event_data.zip
+LICENSE
 
-
-
-## File Descriptions <a name="files"></a>
-
-
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-The Data set used in this process is provided by **figure-8** that contains real labeled disaster messages received by an aid organisation during disaster events.
+## Licensing, Authors, Acknowledgements
+The Dataset used in this process is provided by **figure-8** that contains real labeled disaster messages received by an aid organization during disaster events.
