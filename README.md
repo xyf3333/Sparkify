@@ -19,7 +19,10 @@ Sparkify.ipynb
 
 data\mini_sparkify_event_data.zip  
 
-LICENSE  
+LICENSE 
+
+## Medium link
+https://xyf3333.medium.com/sparkify-churn-prediction-5ea8ca7b61e7 
 
 ## Licensing, Authors, Acknowledgements
 The Dataset used in this process is provided by **figure-8** that contains real labeled disaster messages received by an aid organization during disaster events.
