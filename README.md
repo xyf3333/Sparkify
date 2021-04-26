@@ -20,6 +20,10 @@ Sparkify.ipynb
 data\mini_sparkify_event_data.zip  
 
 LICENSE 
+## Result
+
+
+The final model base on the random forest classifier with num_tree = 10 and new data that the churn label is created by ‘Cancellation Confirmation’ and ‘Downgrade’ actions of ‘page’
 
 ## Medium link
 https://xyf3333.medium.com/sparkify-churn-prediction-5ea8ca7b61e7 
